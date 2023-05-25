@@ -35,7 +35,7 @@ nombre(5);
 
 // ecrire une boucle for qui calcul la somme des nombres de 1 a 100 puis fiche le resultat dans la console
 let x = 100; 
-let somme = 0; // Variable pour stocker la somme
+let somme = 0; 
 
 for (let i = 1; i <= x; i++) {
   somme += i;
